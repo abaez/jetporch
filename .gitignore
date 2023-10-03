@@ -1,2 +1,5 @@
 /src/cli/version.rs
 target
+
+result
+.direnv
